@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteAccessManager", "RemoteAccessManager\RemoteAccessManager.csproj", "{9E79DAEF-74B3-4CCB-9751-3DA96887E8C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E79DAEF-74B3-4CCB-9751-3DA96887E8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E79DAEF-74B3-4CCB-9751-3DA96887E8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E79DAEF-74B3-4CCB-9751-3DA96887E8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E79DAEF-74B3-4CCB-9751-3DA96887E8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99199D6F-F6DB-48D5-836B-41F2506ACB66}
+	EndGlobalSection
+EndGlobal
